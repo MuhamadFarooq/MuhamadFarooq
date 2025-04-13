@@ -1,4 +1,4 @@
-👋 Hi, I’m @MuhamadFarooq
+👋 Hi, I’m @MUHAMMAD_FAROOQ
 
 👀 I’m interested in Adaptive 360 degree video streaming using Deep Reinforcement Learning (DRL) techniques 
 
